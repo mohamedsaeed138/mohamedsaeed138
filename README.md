@@ -46,15 +46,15 @@ Hi, I'm Mohamed Saeed!
 
 <p align="center">
     <a href="https://github.com/mohamedsaeed138"><img alt="C#" src="https://img.shields.io/badge/CSharp%20-%23F7DF1E.svg?logo=Csharp&logoColor=white&color=6a3ca5"></a>
-    <a href="https://github.com/mohamedsaeed138"><img alt=".NET" src="https://img.shields.io/badge/.NET%20-%23F7DF1E.svg?&logoColor=white&color=6a3ca5"></a>
-    <a href="https://github.com/mohamedsaeed138"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white&color=376e9e"></a>
-    <a href="https://github.com/mohamedsaeed138"><img alt="C++" src="https://img.shields.io/badge/-C++%20-%23F7DF1E.svg?logo=cplusplus&logoColor=white&color=1182c3"></a>
+    <a href="https://github.com/mohamedsaeed138"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"></a>
+    <a href="https://github.com/mohamedsaeed138"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&color=376e9e"></a>
+    <a href="https://github.com/mohamedsaeed138"><img alt="C++" src="https://img.shields.io/badge/-C++%20-%23F7DF1E.svg?logo=cplusplus&logoColor=white&color=00427e"></a>
     <a href="https://github.com/mohamedsaeed138"><img alt="Microsoft_SQL_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server%20-%23150458.svg?logo=microsoft-sql-server&color=c63331&logoColor=white"></a>
-    <a href="https://github.com/mohamedsaeed138"><img alt="Html" src="https://img.shields.io/badge/HTML%20-%23150458.svg?logo=Html&color=f16524&logoColor=white"></a>
-    <a href="https://github.com/mohamedsaeed138"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23150458.svg?logo=css&color=2862e9&logoColor=white"></a>
+    <a href="https://github.com/mohamedsaeed138"><img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
+    <a href="https://github.com/mohamedsaeed138"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></a>
     <a href="https://github.com/mohamedsaeed138"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
     <a href="https://github.com/mohamedsaeed138"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?logo=figma&logoColor=white&color=2862e9"></a>
-     <a href="https://github.com/mohamedsaeed138"><img alt="Linux" src="https://img.shields.io/badge/Linux%20-%23150458.svg?logo=linux&color=fcc624&logoColor=333333"></a>
+     <a href="https://github.com/mohamedsaeed138"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
     <a href="https://github.com/mohamedsaeed138"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 </p>
 </br>
