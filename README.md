@@ -44,7 +44,7 @@ Hi, I'm Mohamed Saeed!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
-<p>
+<p align="center">
     <a href="https://github.com/mohamedsaeed138"><img alt="C#" src="https://img.shields.io/badge/CSharp%20-%23F7DF1E.svg?logo=Csharp&logoColor=white&color=6a3ca5"></a>
     <a href="https://github.com/mohamedsaeed138"><img alt=".NET" src="https://img.shields.io/badge/.NET%20-%23F7DF1E.svg?&logoColor=white&color=6a3ca5"></a>
     <a href="https://github.com/mohamedsaeed138"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white&color=376e9e"></a>
