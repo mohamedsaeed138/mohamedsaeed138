@@ -66,8 +66,8 @@ Hi, I'm Mohamed Saeed!
 <br/>
 <p align="center">
 	<a href="https://github.com/mohamedsaeed138">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohamedsaeed138&theme=algolia&show_icons=true" alt="mohamedsaeed138">
-	<img width="49.5%" src="https://streak-stats.demolab.com/?user=mohamedsaeed138&theme=algolia" alt="mohamedsaeed138">
+	<img src="https://github-readme-stats.vercel.app/api?username=mohamedsaeed138&theme=algolia&show_icons=true" alt="mohamedsaeed138">
+	<img  src="https://streak-stats.demolab.com/?user=mohamedsaeed138&theme=algolia" alt="mohamedsaeed138">
 	</a>
 	<br/>
 </p>
@@ -80,7 +80,7 @@ Hi, I'm Mohamed Saeed!
 	<a href="https://github.com/mohamedsaeed138">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsaeed138&theme=algolia&langs_count=8&layout=compact" alt="mohamedsaeed138">
  </a>
-	<br/>
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
