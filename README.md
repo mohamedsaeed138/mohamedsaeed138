@@ -22,7 +22,7 @@ Hi, I'm Mohamed Saeed!
 ## <picture><img src = "https://github.com/mohamedsaeed138/mohamedsaeed138/raw/main/about_me.gif" width = 50px></picture> **About me**
 
 <pre>
-💻 I am a self taught Backend Engineer and a Desktop Apps Developer
+💻 I 'm a self taught Backend Engineer and a Desktop Apps Developer
 📚 I 'm undergraduate in Computer Science from Suez University at Egypt
 📝 I have a strong dedication in Backend Development
 🌱 Learning about ASP.NET Core, DataBases, APIs, Authentication and Security
@@ -40,6 +40,7 @@ Hi, I'm Mohamed Saeed!
 	<a href="https://github.com/mohamedsaeed138"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&color=634bff&logoColor=white" alt="GitHub"/></a>
     <a href="https://www.facebook.com/mohamed.saeed.goda.13"><img src="https://img.shields.io/badge/facebook-%23181717.svg?style=plastic&logo=facebook&color=395498&logoColor=white" alt="Facebook"/></a>
     <a href="https://x.com/Mohamed1528138"><img src="https://img.shields.io/badge/twitter-%23181717.svg?style=plastic&logo=twitter&color=179cf0&logoColor=white" alt="Twitter"/></a>
+	<a href="https://wa.link/h0i3lo"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=fff" alt="WhatsApp"/></a
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
