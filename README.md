@@ -36,7 +36,7 @@ Hi, I'm Mohamed Saeed!
 
 <p align="center">
 	<a href="mailto:mohamed.saeed.goda.13@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/mohamed-saeed-96329428a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/mohamed-saeed-goda/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/mohamedsaeed138"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&color=634bff&logoColor=white" alt="GitHub"/></a>
     <a href="https://www.facebook.com/mohamed.saeed.goda.13"><img src="https://img.shields.io/badge/facebook-%23181717.svg?style=plastic&logo=facebook&color=395498&logoColor=white" alt="Facebook"/></a>
     <a href="https://x.com/Mohamed1528138"><img src="https://img.shields.io/badge/twitter-%23181717.svg?style=plastic&logo=twitter&color=179cf0&logoColor=white" alt="Twitter"/></a>
