@@ -28,7 +28,7 @@ Hi, I'm Mohamed Saeed!
 🌱 Learning about ASP.NET Core, DataBases, APIs, Authentication and Security
 🌟 Main languages: C#, Python, C++
 🚩 Interested in Full Stack Development and Problem Solving
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="#" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1CSkyL_9CBcD78KDJij6lVWiStUZhg8fQ/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
