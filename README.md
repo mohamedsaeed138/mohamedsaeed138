@@ -23,7 +23,7 @@ Hi, I'm Mohamed Saeed!
 
 <pre>
 💻 I 'm a self taught Backend Engineer and a Desktop Apps Developer
-📚 I 'm undergraduate in Computer Science from Suez University at Egypt
+📚 I'm a Computer Science undergraduate at Suez University, Egypt
 📝 I have a strong dedication in Backend Development
 🌱 Learning about ASP.NET Core, DataBases, APIs, Authentication and Security
 🌟 Main languages: C#, Python
