@@ -37,7 +37,7 @@ Hi, I'm Mohamed Saeed!
  <a href="mailto:mohamed.saeed.goda.13@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
  <a href="https://www.linkedin.com/in/mohamed-saeed-goda/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
  <a href="https://github.com/mohamedsaeed138"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&color=634bff&logoColor=white" alt="GitHub"/></a>
-    <!-- <a href="https://x.com/myusername"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"/></a> -->
+    <a href="https://x.com/Mohamed45377600"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"/></a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
