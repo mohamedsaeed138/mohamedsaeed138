@@ -50,6 +50,8 @@ Hi, I'm Mohamed Saeed!
   - Implemented doctor verification workflow and patient-doctor session management
   - Integrated FFmpeg for media processing (audio/video/image)
   - Used Entity Framework Core with SQL Server for data persistence and FluentValidation for input validation
+  
+- 🔗 [GitHub Repository – Seravian Backend](https://github.com/Seravian/Seravian-Backend)
 
 ---
 
