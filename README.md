@@ -18,7 +18,7 @@ Hi, I'm Mohamed Saeed!
 
 <p align="center">
  <a href="https://github.com/mohamedsaeed138">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backend+Developer;AI+Enthusiast;Always+learning+new+things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backend+Developer;Always+learning+new+things&center=true&width=380&height=45">
  </a>
 </p>
 
